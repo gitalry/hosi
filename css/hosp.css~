@@ -1,0 +1,183 @@
+/* This is the style sheet is for rembesha'ng my web pages */
+
+body {
+    width: 98%;
+    background-color: lavender;
+    color: black;
+    /* This is the font color */
+    font-family: 'Oswald', sans-serif;
+    border: 0px;
+    padding: 10px;
+    margin: 2px;
+    border-style: solid;
+    border-color: white;
+}
+#title {
+    background-color: deepskyblue;
+    background-position: center;
+    font-family: sans-serif;
+    color: white;
+    font-size: 55;
+    border-radius: 31px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    height: 150px;
+}
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 10;
+    overflow: hidden;
+}
+li {
+    float: left;
+}
+li a {
+    display: inherit;
+    width: 95%;
+    color: blue;
+    text-align: ;
+    float: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    list-style: none
+}
+li a:hover {
+    background-color: cyan;
+}
+#navi {
+    background-size: auto;
+    font-family: monospace;
+    font-size: 28;
+    font-stretch: expanded;
+    align-content: center;
+    font-feature-settings: normal;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-top: 10;
+    height: 100px;
+    padding-left: 290px;
+    align-content: center;
+}
+
+}
+#hh {
+    color: white;
+    text-align: right;
+}
+#neck {
+    background-color: whitesmoke;
+    font-family: serif;
+    color: darkslategrey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#neck2 {
+    background-color: whitesmoke;
+    font-family: serif;
+    color: darkslategrey;
+}
+#chest {
+    background-color: whitesmoke;
+    font-family: serif;
+    color: darkslategrey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#img2 {
+    object-position: right;
+}
+#ribs {
+    background-color: whitesmoke;
+    font-family: serif;
+    color: darkslategrey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#ribs .left {
+    text-align: left;
+    text-align: center;
+    width: 1000px;
+}
+#ribs .right {
+    text-align: right;
+}
+#ribs .right .img {
+    width: 400px;
+}
+#advert {
+    height: 120px;
+    width: 100%;
+    background-color: green;
+    text-align: center;
+    font-family: serif;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#center {
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    font-family: serif;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
+#knees {
+    background-color: whitesmoke;
+    font-family: serif;
+    color: black;
+}
+#footer {
+    font-family: monospace;
+    font-size: 20;
+    color: azure;
+    text-indent: 10;
+    background-color: darkblue;
+    border-radius: 31px;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-top: 20;
+    height: 55px;
+    clear: both;
+}
+#sign {
+    font-family: monospace;
+    color: azure;
+    font-size: 18;
+    text-indent: 10;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-bottom: auto;
+    margin-top: 20;
+    height: 80px;
+}
+#main {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 100%;
+}
+#rooms:hover {
+    border: 1px solid #777;
+}
+div.img img {
+    width: 100%;
+    height: auto;
+}
+div.desc {
+    padding: 15px;
+    text-align: center;
+    font-size: 25px;
+    color: azure;
+    text-transform: uppercase;
+}
